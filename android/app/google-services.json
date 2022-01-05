@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "505043225060",
+    "project_id": "alga-4fbb3",
+    "storage_bucket": "alga-4fbb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505043225060:android:10569cca5f52b4766c1ff1",
+        "android_client_info": {
+          "package_name": "vx.alga.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505043225060-1irlokht5vtavua46ag8uvfoadom1bvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsOaB-XpCHg66EOexwI57lQEKjC_R2V8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505043225060-1irlokht5vtavua46ag8uvfoadom1bvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505043225060-pmllltfhptgekb8gf7g2u3erqlo88ptk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vx.alga.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
